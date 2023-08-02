@@ -1,0 +1,1 @@
+https://github.com/FaridSafi/react-native-gifted-chat/issues/2370
